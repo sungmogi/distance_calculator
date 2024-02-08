@@ -226,4 +226,4 @@ Then, we define the function postToServer which will be called when the form is 
     )
 }
 ```
-Here, we have the form in which the input fields call the updateFormData function on change. 
+Here, we have the form in which the input fields call the updateFormData function on change. When the form is submitted, the function postToServer is called. After postToServer handles the POST request and resultData is updated, distance and duration are displayed.
