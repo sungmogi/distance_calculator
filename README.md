@@ -226,3 +226,4 @@ Then, we define the function postToServer which will be called when the form is 
     )
 }
 ```
+Here, we have the form in which the input fields call the updateFormData function on change. 
